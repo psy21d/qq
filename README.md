@@ -5,8 +5,6 @@ It's a simple bridge between Telegram and https://h5.tu.qq.com/web/ai-2d/cartoon
 
 Demo: https://t.me/qq_neural_anime_bot
 
-![Example](example.jpg)
-
 # Running your own bot
 You need to have Node.js and NPM installed.
 
